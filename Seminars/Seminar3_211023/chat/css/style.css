@@ -1,0 +1,63 @@
+body {
+    background-color: silver;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+header,
+footer {
+    color: red;
+    background: orange;
+    padding: 5px;
+    text-align: center;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    background-color: bisque;
+    padding: 5px 0;
+}
+
+nav a {
+    padding: 5px;
+    transition: 1s;
+}
+
+nav a:hover {
+    background-color: blue;
+    color: white;
+}
+
+main {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+footer {
+    color: black;
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+}
+
+main div {
+    display: flex;
+}
+
+main p {
+    margin-top: 0;
+}
+
+#error {
+    color: red;
+}

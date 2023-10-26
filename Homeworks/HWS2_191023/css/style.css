@@ -1,0 +1,85 @@
+html {
+    background-color: #5085A5;
+    background: url(../img/font.jpg);
+}
+
+header, footer {
+    color:aquamarine;
+    /* border: 2px solid orchid; */
+    padding: 10px;
+    text-align: center;
+}
+
+/* h1 {
+    font-family: 'Harry Potter', sans-serif;
+    font-size: x-large;
+    color: #E27D60;
+} */
+
+p {
+    color: red;
+    text-align: center;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #E27D60;
+    text-align: center;
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: wheat;
+    color: darkblue;
+}
+
+ul, li {
+    color: white;
+}
+
+.hp, h1 {
+    font-family: 'Harry Potter', sans-serif;
+    font-size: x-large;
+    color: yellow;
+    text-align: center;
+}
+
+.block {
+    color: #9FEDD7;
+    width: 260px;
+    padding: 20px 10px 20px 30px;
+    /*margin: 30px 20px 10px 50px;*/
+}
+
+.sprin .win {
+    float: left;
+    margin-right: 20px;
+}
+
+.description {
+display: flex;
+}
+
+.chilling {
+    display: flex;
+    }
+
+input {
+    display:block;
+    margin:0 auto;
+}
+
+button {
+    display:block;
+    margin:0 auto;
+}
+
+
