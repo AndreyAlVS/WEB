@@ -5,16 +5,9 @@ html {
 
 header, footer {
     color:aquamarine;
-    /* border: 2px solid orchid; */
     padding: 10px;
     text-align: center;
 }
-
-/* h1 {
-    font-family: 'Harry Potter', sans-serif;
-    font-size: x-large;
-    color: #E27D60;
-} */
 
 p {
     color: red;
@@ -56,28 +49,18 @@ ul, li {
     color: #9FEDD7;
     width: 260px;
     padding: 20px 10px 20px 30px;
-    /*margin: 30px 20px 10px 50px;*/
 }
 
-.sprin .win {
+.sprin, .win {
     float: left;
     margin-right: 20px;
 }
 
-.description {
+.description, .chilling {
 display: flex;
 }
 
-.chilling {
-    display: flex;
-    }
-
-input {
-    display:block;
-    margin:0 auto;
-}
-
-button {
+input, button {
     display:block;
     margin:0 auto;
 }
